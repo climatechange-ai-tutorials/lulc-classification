@@ -12,6 +12,7 @@ We recommend executing these notebooks in a Colab environment to gain access to 
 Part 1: <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 Part 2: <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/lulc-classification/blob/main/land_use_land_cover_part2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
