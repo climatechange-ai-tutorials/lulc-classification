@@ -33,7 +33,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Voss, M. (2024). Building Load Forecasting with Machine Learning [Tutorial]. In Climate Change AI Summer School 2024. Climate Change AI. https://doi.org/10.5281/zenodo.11553722
+Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification using Deep Learning [Tutorial]. In Climate Change AI Summer School 2024. Climate Change AI. https://doi.org/10.5281/zenodo.11584954
 
 ### BibTeX
 
@@ -45,7 +45,7 @@ Voss, M. (2024). Building Load Forecasting with Machine Learning [Tutorial]. In 
   howpublished={\url{https://github.com/climatechange-ai-tutorials/lulc-classification}},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11553722},
+  doi={https://doi.org/10.5281/zenodo.11584954},
   booktitle={Climate Change AI Summer School 2024}
 }
 ```
