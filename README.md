@@ -3,7 +3,7 @@ Mapping the extent of land use and land cover categories over time is essential 
 
 Authors: Isabelle Tingzon and Ankur Mahesh
 
-Originally presented at CCAI Summer School 2022
+Originally presented at Climate Change AI Summer School 2022
 
 ## Access this tutorial
 
