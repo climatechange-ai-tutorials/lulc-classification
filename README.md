@@ -34,7 +34,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification using Deep Learning [Tutorial]. In Climate Change AI Summer School 2024. Climate Change AI. https://doi.org/10.5281/zenodo.11584954
+Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification using Deep Learning [Tutorial]. In Climate Change AI Summer School. Climate Change AI. https://doi.org/10.5281/zenodo.11584954
 
 ### BibTeX
 
@@ -47,6 +47,6 @@ Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification 
   organization={Climate Change AI},
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11584954},
-  booktitle={Climate Change AI Summer School 2024}
+  booktitle={Climate Change AI Summer School}
 }
 ```
