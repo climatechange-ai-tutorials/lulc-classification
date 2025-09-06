@@ -50,3 +50,23 @@ Tingzon, I., & Mahesh, A. (2024). Land Use and Land Cover (LULC) Classification 
   booktitle={Climate Change AI Summer School}
 }
 ```
+@misc{tingzon2024land,
+  title={Land Use and Land Cover (LULC) Classification using Deep Learning},
+  author={Tingzon, Isabelle and Mahesh, Ankur},
+  year={2024},
+  howpublished={\url{https://github.com/climatechange-ai-tutorials/lulc-classification}},
+  organization={Climate Change AI},
+  type={Tutorial},
+  doi={https://doi.org/10.5281/zenodo.11584954},
+  booktitle={Climate Change AI Summer School}
+}
+@misc{tingzon2024land,
+  title={Land Use and Land Cover (LULC) Classification using Deep Learning},
+  author={Tingzon, Isabelle and Mahesh, Ankur},
+  year={2024},
+  howpublished={\url{https://github.com/climatechange-ai-tutorials/lulc-classification}},
+  organization={Climate Change AI},
+  type={Tutorial},
+  doi={https://doi.org/10.5281/zenodo.11584954},
+  booktitle={Climate Change AI Summer School}
+  
